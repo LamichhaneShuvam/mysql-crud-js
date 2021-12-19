@@ -7,7 +7,6 @@
  */
 
 
-const { json } = require('express/lib/response');
 const db = require('../config/db');
 
 class Blog {
